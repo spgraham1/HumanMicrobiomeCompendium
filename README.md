@@ -1,4 +1,8 @@
 # HumanMicrobiomeCompendium
+
+The Human Microbiome Compendium is the result of collecting and processing over 170,000 publicly available 16S rRNA sequencing 
+human gut microbiome samples. 
+
 Code used in analysis of the Human Microbiome Compendium
 
 The "Distance to next sample" is used to understand how similar any given sample is to the rest of the compendium as a whole.
